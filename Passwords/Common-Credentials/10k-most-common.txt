@@ -94,7 +94,7 @@ richard
 diamond
 yellow
 bigdog
-secret
+secret.
 asdfgh
 sparky
 cowboy
